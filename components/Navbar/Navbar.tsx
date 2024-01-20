@@ -52,8 +52,8 @@ export function Navbar() {
           modalTitle={""}
           modalSize={"wide"}
           welcomeScreen={{
-            title: "0x Domain Staking",
-            subtitle: "Stake Your Domains, Get H Token",
+            title: "FMS Staking",
+            subtitle: "Stake FMS Discount NFTs, Get FMS Token",
             img: {
               src: "https://i.imgur.com/3D2Arx0.png",
               width: 150,
