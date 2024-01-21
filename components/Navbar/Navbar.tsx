@@ -19,7 +19,7 @@ export function Navbar() {
               src="/logo.png"
               width={48}
               height={48}
-              alt="0x staking sample logo" 
+              alt="FMS Staking" 
             />
           </Link>
 
