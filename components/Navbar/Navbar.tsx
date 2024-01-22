@@ -39,6 +39,9 @@ export function Navbar() {
             <Link href="/claim" className={styles.link}>
              Claim
             </Link>
+            <Link href="https://market.fmtlol.com" className={styles.link}>
+             Market
+            </Link>
             
             
           </div>
