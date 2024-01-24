@@ -10,15 +10,16 @@ const Mint: NextPage = () => {
 
   return (
     <div className={styles.container}>
+      <Image src="/nft.png" alt="logo" width={300} height={200} /> 
+      <br />
+      <br />
       <h1 className={styles.h1}>FMS Discount NFT</h1>
       <br />
       <br />
-      <Image src="/nft.png" alt="logo" width={300} height={200} /> 
       <h4>3% discount on all FMS platform services</h4>
       <p className={styles.explain}>
       MINT Price 200.000 FMS Tokens 
       </p>
-      
      <br />
       <Web3Button
         connectWallet={{
