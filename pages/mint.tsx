@@ -17,7 +17,7 @@ const Mint: NextPage = () => {
       <br />
       <h4>3% discount on all FMS platform services</h4>
       <p className={styles.explain}>
-      MINT Price 200.000 FMS Tokens 
+      MINT Price 200.000 F Tokens 
       </p>
      <br />
       <Web3Button
