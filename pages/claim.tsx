@@ -90,7 +90,7 @@ import {
        />
         ) : (
           <>
-            <h1>Claim FMS Tokens</h1>
+            <h1>Claim F Tokens</h1>
             <div className={styles.tokenGrid}>
               <div className={styles.tokenItem}>
                 <h3 className={styles.tokenLabel}>Claimable Rewards</h3>
