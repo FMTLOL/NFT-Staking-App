@@ -78,7 +78,7 @@ const Stake: NextPage = () => {
           modalSize={"wide"}
           welcomeScreen={{
             title: "FMS Staking",
-            subtitle: "Stake FMS Discount NFTs, Get FMS Token",
+            subtitle: "Stake FMS Discount NFTs, Get F Token",
             img: {
               src: "https://i.imgur.com/3D2Arx0.png",
               width: 150,
