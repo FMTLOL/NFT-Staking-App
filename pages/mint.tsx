@@ -14,7 +14,7 @@ const Mint: NextPage = () => {
       <br />
       <br />
       <h5 className={styles.h5}>FMS Discount NFT</h5>
-      <h5 className={styles.h5}>3% discount on all FMS platform services</h5>
+      <h5 className={styles.h5}>10% discount on all FMS platform services</h5>
      <br />
       <Web3Button
         connectWallet={{
