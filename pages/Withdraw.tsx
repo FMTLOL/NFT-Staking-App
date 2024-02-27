@@ -77,7 +77,7 @@ import {
          modalSize={"wide"}
          welcomeScreen={{
            title: "FMS Staking",
-           subtitle: "Stake FMS Discount NFTs, Get F Token",
+           subtitle: "Stake FMS Discount NFTs, Earn F Token",
            img: {
              src: "https://i.imgur.com/3D2Arx0.png",
              width: 150,
