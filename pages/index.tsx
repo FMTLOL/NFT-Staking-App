@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       <h1 className={styles.h1}>FMS Staking</h1>
       <p className={styles.selectBoxDescription}>
       <br/>
-      Stake FMS Discount NFTs, Get F Token</p>
+      Stake FMS Discount NFTs, Earn F Token</p>
       <br/>
       <br/>
       <br/>
