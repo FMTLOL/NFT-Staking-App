@@ -10,7 +10,9 @@ const activeChain = "polygon";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <ThirdwebProvider activeChain={activeChain}>
+    <ThirdwebProvider 
+      clientId="a71602f1d0822c8003cf0df203ebd0b0"
+      activeChain={activeChain}>
       <Head>
         <title>FMS Staking</title>
       </Head>
